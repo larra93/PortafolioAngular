@@ -1,7 +1,15 @@
-.about-imagen{
-    width: auto;
-    max-width: 100%;
-    width: 450px;
+
+.parrafo{
+    font-size: 1.3em;
 }
 
-/* Pendiente parrafo*/
+
+
+
+
+.imagen-about{
+    height: auto;
+    max-width: 100%;
+    width: 550px;
+    
+}
