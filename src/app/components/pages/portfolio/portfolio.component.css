@@ -1,0 +1,19 @@
+.imagenes{
+    height: auto;
+    max-width: 100%;
+    
+}
+.logos{
+    height: auto;
+    max-width: 100%;
+    width: 140px;
+    
+}
+
+.contenedor-p{
+    padding: 30px;
+}
+
+.parrafo{
+    font-size: 1.3em;
+}

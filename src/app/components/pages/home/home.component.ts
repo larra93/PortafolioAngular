@@ -14,4 +14,7 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  descargarPdf(){
+    window.open("./assets/pdf/Felipe Larraguibel-Ingeniero en Informática.pdf", "_blank");
+  }
 }

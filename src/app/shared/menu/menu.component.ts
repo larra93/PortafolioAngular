@@ -27,10 +27,6 @@ export class MenuComponent implements OnInit {
       {
         label: 'Portfolio',
         routerLink: 'portfolio'
-      },
-      {
-        label: 'CV',
-        routerLink: 'cv'
       }
     ];
   }
